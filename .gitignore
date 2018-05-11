@@ -1,0 +1,8 @@
+*_dep.m
+*.aux
+*.log
+*.synctex.gz
+*.pyc
+*.DS_Store
+*_dep.m
+*~
